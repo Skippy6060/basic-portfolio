@@ -1,0 +1,30 @@
+#Name {
+    background: #4aaaa5;
+    text: white;
+    float: left;
+    margin: 0;
+    top: 0;
+    left: 30;
+    
+    }
+
+    img {
+        width: 200px;
+        height: 200px;
+    }
+    
+
+    h1{
+    text: #4aaaa5;
+
+}
+    #body {
+        background: #white;
+        text: "#777777";
+    }
+
+    footer {
+        background: #666666;
+        text: #777777;
+
+    }
